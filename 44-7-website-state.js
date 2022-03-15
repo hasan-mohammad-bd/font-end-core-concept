@@ -1,0 +1,1 @@
+//user can change the website state with user interaction. for example: facebook like comment. this way user change the website state.

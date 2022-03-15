@@ -46,3 +46,8 @@ const getCountryHTML = ({name, flags, area, region}) =>{
 // }
 
 loadCountries();
+
+
+//find  attribute vs property from google.
+//html use attribute.
+//js use property. property is short name is "props"
